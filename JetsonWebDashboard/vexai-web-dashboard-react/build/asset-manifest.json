@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b90b16b.css",
+    "main.js": "/static/js/main.21a4e364.js",
+    "static/media/FieldTopDown-Cleared.png": "/static/media/FieldTopDown-Cleared.55b89c75b0f2d6452b54.png",
+    "static/media/BlueRing-Top.png": "/static/media/BlueRing-Top.5353fbe5ecd81a82e632.png",
+    "static/media/RedRing-Top.png": "/static/media/RedRing-Top.40282a453d2f765a6e89.png",
+    "static/media/HeroBot-Top.png": "/static/media/HeroBot-Top.fe6fb4cb8c0e5010cef8.png",
+    "static/media/MobileGoal-Top.png": "/static/media/MobileGoal-Top.c7436374371e5f033489.png",
+    "static/media/compass.png": "/static/media/compass.e32298b9ad4b9e2b1ded.png",
+    "static/media/vex_ai_logo_black.png": "/static/media/vex_ai_logo_black.bf6a004445f06bd58032.png",
+    "static/media/ruler.png": "/static/media/ruler.c29474202f6b22c6c105.png",
+    "static/media/vex_ai_logo_white.png": "/static/media/vex_ai_logo_white.d1b145737383a90f6020.png",
+    "index.html": "/index.html",
+    "main.5b90b16b.css.map": "/static/css/main.5b90b16b.css.map",
+    "main.21a4e364.js.map": "/static/js/main.21a4e364.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b90b16b.css",
+    "static/js/main.21a4e364.js"
+  ]
+}

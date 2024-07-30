@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5b90b16b.css","mappings":"AAAA,KAEE,qBAAuB,CACvB,UAAY,CAFZ,8BAAkC,CAGlC,QACF","sources":["App.css"],"sourcesContent":["body {\r\n  font-family: \"Arial\", \"sans-serif\";\r\n  background-color: black;\r\n  color: white;\r\n  margin: 0;\r\n}\r\n"],"names":[],"sourceRoot":""}
