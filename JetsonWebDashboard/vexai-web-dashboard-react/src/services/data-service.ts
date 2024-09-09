@@ -16,7 +16,7 @@ export interface DataService {
  * Service to get data from the websocket server on the AI module
  */
 export class DataService extends EventEmitter {
-  private timer: NodeJS.Timer;
+  private timer: NodeJS.Timeout;
   private socket: WebSocket;
   public command: string;
   public ip: string;
